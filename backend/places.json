@@ -1,0 +1,3560 @@
+[
+  {
+    "place_id": "ChIJfbo3TIpb4joR9Aw-TxlMgRU",
+    "name": "HomeTree Coworking",
+    "address": "16 Station Rd, Colombo 00400, Sri Lanka",
+    "rating": 4.6,
+    "userRatingCount": 114,
+    "types": [
+      "corporate_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Good place, there was enough space for a small gathering of 30 people in one of their halls.\nAir conditioning can be a bit better and better blinders can be used to control outside lighting. Love the blub lighting as well",
+      "Fully air-conditioned, spacious, and fully equipped with work facilities. Also very well maintained, like washrooms are properly cleaned and pleasant.\nA common kitchen area on the second floor and included dining space.\nNo private car park, but the public car park which is right in front of it can be used, or maybe street parking.",
+      "I recently had the best hot desking experience I've ever had! I used the hot desking for a week and was really impressed. The spaces included both A/C and non-A/C areas that were calm and not overcrowded, which made it easy to focus. The lounge and kitchen areas were fantastic as well, equipped with all the necessary facilities. Plus, I felt secure in the building, which is always a plus. Overall, a great place to work!.",
+      "I was impressed with the boardroom at this coworking space! It's not just \"fully-equipped\" as advertised, but genuinely aesthetic and very well-designed. The vibe in there made our meeting feel much more professional and inspiring.\n\nBeyond the boardroom, the overall space has a great feel to it. I'd absolutely recommend this coworking space to others, especially if you're looking for a top-notch meeting room in a super convenient location in the heart of Colombo.\n\nKeep up the great work! :)",
+      "Staff is friendly and have good stable internet connection. Common facilities need to improve more. Parking is available outside on the other side of the road."
+    ],
+    "clean_texts": [
+      "good place space small gathering 30 people hall air conditioning bit well well blinder control outside lighting love blub lighting",
+      "fully air condition spacious fully equip work facility maintain like washroom properly clean pleasant common kitchen area second floor include dining space private car park public car park right maybe street parking",
+      "recently good hot desking experience hot desking week impressed space include c non c area calm overcrowded easy focus lounge kitchen area fantastic equip necessary facility plus feel secure building plus overall great place work",
+      "impressed boardroom coworke space fully equip advertise genuinely aesthetic design vibe meeting feel professional inspiring boardroom overall space great feel absolutely recommend coworke space especially look notch meeting room super convenient location heart colombo great work",
+      "staff friendly good stable internet connection common facility need improve parking available outside road"
+    ],
+    "pos_tags_sample": [
+      [
+        "good",
+        "ADJ"
+      ],
+      [
+        "place",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "there",
+        "PRON"
+      ],
+      [
+        "was",
+        "VERB"
+      ],
+      [
+        "enough",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "small",
+        "ADJ"
+      ],
+      [
+        "gathering",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "30",
+        "NUM"
+      ],
+      [
+        "people",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "their",
+        "PRON"
+      ],
+      [
+        "halls",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "air",
+        "PROPN"
+      ],
+      [
+        "conditioning",
+        "NOUN"
+      ],
+      [
+        "can",
+        "AUX"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "bit",
+        "NOUN"
+      ],
+      [
+        "better",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "better",
+        "ADJ"
+      ],
+      [
+        "blinders",
+        "NOUN"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "30",
+        "CARDINAL"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "second",
+        "ORDINAL"
+      ],
+      [
+        "a week",
+        "DATE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJKYqCmWlZ4joRX5HFkGpk0eM",
+    "name": "Hatch Works",
+    "address": "14 Sir Baron Jayathilake Mawatha, Colombo 00100, Sri Lanka",
+    "rating": 4.7,
+    "userRatingCount": 635,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Hatch is one of the best co-working spaces in Colombo. The vibe and amenities are fantastic. Whether you’re a startup or a corporate business, this is the ideal place to work. They offer a day pass for just Rs. 2000, allowing you to stay until 10 pm. Plus, there’s a Dilma cafe where you can grab a quick snack. The WiFi speed is decent, ranging from 75-100 Mbps. It’s a calming place with a quality atmosphere.\n\nIf you're looking for a place to work alone or with friends, this is the perfect spot. Highly recommended!",
+      "Hatch Works Sri Lanka is an exceptional co-working space! The environment is both inspiring and productive, making it a perfect place for creative professionals. The facilities are top-notch, and the staff is friendly and accommodating. Whether you're working on your own project or collaborating with others, Hatch Works provides the ideal atmosphere. I highly recommend it for anyone seeking a vibrant workspace.",
+      "The Web 3 meetup hosted by Apium Innovation at Hatch in Colombo was an inspiring experience. The core working space at Hatch offers a vibrant and collaborative atmosphere, ideal for networking and knowledge sharing. The seating arrangement was comfortable, and the facilities, including projectors and lighting, were well-suited for the event. It’s a dynamic hub fostering innovation and connections, making it perfect for such tech-focused discussions. Highly recommend Hatch for events and meetups!",
+      "If you are start up and looking for office in Colombo this is a great choice as it is centrally located and is a very dynamic space and full of inspiration and energy. The interiors are outstanding and so are the people and the facilities. They offer mentorship, are an incubator and an accelerator.  Each floor has been artfully put together and it’s a joy to be on any floor. Great place with an outstanding creative vibe.",
+      "Hatch Works is a modern coworking space in Colombo that caters to entrepreneurs, freelancers, and businesses seeking an inspiring work environment. The space features contemporary design, vibrant workstations, and meeting rooms equipped with state-of-the-art facilities. It's a hub for innovation and collaboration, regularly hosting events and networking opportunities. The staff is supportive and friendly, ensuring a seamless experience for members. With its central location and amenities, Hatch Works is an excellent choice for fostering creativity and productivity."
+    ],
+    "clean_texts": [
+      "hatch good co working space colombo vibe amenity fantastic startup corporate business ideal place work offer day pass r 2000 allow stay 10 pm plus s dilma cafe grab quick snack wifi speed decent range 75 100 mbps s calming place quality atmosphere look place work friend perfect spot highly recommend",
+      "hatch work sri lanka exceptional co working space environment inspiring productive make perfect place creative professional facility notch staff friendly accommodating work project collaborate hatch work provide ideal atmosphere highly recommend seek vibrant workspace",
+      "web 3 meetup host apium innovation hatch colombo inspiring experience core working space hatch offer vibrant collaborative atmosphere ideal networking knowledge sharing seating arrangement comfortable facility include projector lighting suit event s dynamic hub foster innovation connection make perfect tech focus discussion highly recommend hatch event meetup",
+      "start look office colombo great choice centrally locate dynamic space inspiration energy interior outstanding people facility offer mentorship incubator accelerator floor artfully s joy floor great place outstanding creative vibe",
+      "hatch work modern coworke space colombo cater entrepreneur freelancer business seek inspiring work environment space feature contemporary design vibrant workstation meet room equip state art facility hub innovation collaboration regularly host event network opportunity staff supportive friendly ensure seamless experience member central location amenity hatch work excellent choice foster creativity productivity"
+    ],
+    "pos_tags_sample": [
+      [
+        "hatch",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "best",
+        "ADJ"
+      ],
+      [
+        "co",
+        "ADJ"
+      ],
+      [
+        "-",
+        "ADJ"
+      ],
+      [
+        "working",
+        "ADJ"
+      ],
+      [
+        "spaces",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "colombo",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "vibe",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "amenities",
+        "NOUN"
+      ],
+      [
+        "are",
+        "AUX"
+      ],
+      [
+        "fantastic",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "whether",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "re",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "startup",
+        "NOUN"
+      ],
+      [
+        "or",
+        "CCONJ"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "corporate",
+        "ADJ"
+      ],
+      [
+        "business",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "hatch",
+        "ORG"
+      ],
+      [
+        "colombo",
+        "GPE"
+      ],
+      [
+        "2000",
+        "DATE"
+      ],
+      [
+        "10 pm",
+        "TIME"
+      ],
+      [
+        "75-100",
+        "CARDINAL"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "3",
+        "CARDINAL"
+      ],
+      [
+        "colombo",
+        "GPE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJ-VAUR2FZ4joRf9mbdWuFDVM",
+    "name": "Likuid Spaces",
+    "address": "5 Charles Pl, Colombo 00300, Sri Lanka",
+    "rating": 4.7,
+    "userRatingCount": 120,
+    "types": [
+      "event_venue",
+      "bar",
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "I’ve been to Likuid places twice so far and my overall experience has been great. First time I went there to host an online event and the second time it was for an office workshop. We utilized the board room both the times and it was well equipped and beverages were free for the number of pax. It has a good internet connection and the lunch area was one of the best highlights. The staff is really friendly and always happy to accommodate our requests. If someone is looking for a co-working space in the heart of Colombo, would recommend Likuid Places without any second thoughts.",
+      "We had booked the Board Room for a meeting ,the venue was clean and had a very professional atmosphere. The Staff were very helpful and easy to work with. Special thanks to Midori for all the support and coordination.",
+      "- Recommendations -\n\nMissing the office environment as a professional can hit harder at times to the extent that managing your work from home becomes bitter.\n\nAs a writer, it's a need to explore a change in the atmosphere to get away from monotonous work patterns. With the suggestions that popped up, trying out Likuid Spaces was one of the best decisions I made. From the first day of the call with Nazreena to the time I made it to experience Likuid Spaces was blissful. Highly recommend Likuid Space to anyone who wishes to find the hotdesk in an office space you can rent out. They have amazing packages and working spaces just the way you may require. The staff is lovely and friendly and you get nothing but beautiful smiles and positive vibes even if you are a visitor on the first day.\n\nLove working here as I feel I am back to \"office life\".\n\nWishing the best to darling Nazreena and the team Likuid Spaces.\n\n#workingspace #hotdesking #writerslife",
+      "My favourite Co-working space in the city. Had been to several other places but Likuid spaces is exceptional.. plus point for the super cool staff and obviously the coffee☕😜😍.\nClean place for issolate yourself and work,or to have meetings,parties, photoshoots and so on.\n\nSpecially have to mention the super cool photo locations available to do indoor photoshoots. 📷\n\nSimply the best in quality and quantity versa 💯 👌",
+      "The hosts are so kind, easy going and so accommodative!! I absolutely loved collaborating with them and hosting a painting workshop on their amazing rooftop!!! Highly recommend!!"
+    ],
+    "clean_texts": [
+      "ve likuid place twice far overall experience great time go host online event second time office workshop utilize board room time equipped beverage free number pax good internet connection lunch area good highlight staff friendly happy accommodate request look co working space heart colombo recommend likuid place second thought",
+      "book board room meeting venue clean professional atmosphere staff helpful easy work special thank midori support coordination",
+      "recommendation miss office environment professional hit hard time extent manage work home bitter writer need explore change atmosphere away monotonous work pattern suggestion pop try likuid space good decision day nazreena time experience likuid space blissful highly recommend likuid space wish find hotdesk office space rent amazing package working space way require staff lovely friendly beautiful smile positive vibe visitor day love work feel office life wish good darle nazreena team likuid space workingspace hotdeske writerslife",
+      "favourite co working space city place likuid space exceptional plus point super cool staff obviously coffee clean place issolate work meeting party photoshoot specially mention super cool photo location available indoor photoshoot simply good quality quantity versa",
+      "host kind easy going accommodative absolutely love collaborate host painting workshop amazing rooftop highly recommend"
+    ],
+    "pos_tags_sample": [
+      [
+        "i",
+        "PRON"
+      ],
+      [
+        "ve",
+        "AUX"
+      ],
+      [
+        "been",
+        "AUX"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "likuid",
+        "ADJ"
+      ],
+      [
+        "places",
+        "NOUN"
+      ],
+      [
+        "twice",
+        "ADV"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "far",
+        "ADV"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "overall",
+        "ADJ"
+      ],
+      [
+        "experience",
+        "NOUN"
+      ],
+      [
+        "has",
+        "AUX"
+      ],
+      [
+        "been",
+        "AUX"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "first",
+        "ADJ"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        "i",
+        "PRON"
+      ],
+      [
+        "went",
+        "VERB"
+      ],
+      [
+        "there",
+        "ADV"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "host",
+        "VERB"
+      ],
+      [
+        "an",
+        "DET"
+      ],
+      [
+        "online",
+        "ADJ"
+      ],
+      [
+        "event",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "second",
+        "ADJ"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "first",
+        "ORDINAL"
+      ],
+      [
+        "second",
+        "ORDINAL"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "second",
+        "ORDINAL"
+      ],
+      [
+        "the first day",
+        "DATE"
+      ],
+      [
+        "the first day",
+        "DATE"
+      ],
+      [
+        "workingspace hotdesking",
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJZ793l-5b4joRKoR9d9mecJM",
+    "name": "RezG Hub - Coworking and Private Office Space",
+    "address": "4 Geethanjalee Pl, Colombo 00300, Sri Lanka",
+    "rating": 4.8,
+    "userRatingCount": 59,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Excellent Co-Working Space with a Professional Atmosphere!\n\nRezG Hub is an outstanding co-working space that perfectly balances comfort and productivity. The workspace is modern, well-maintained, and thoughtfully designed to support both individual work and team collaboration. The meeting rooms are well-equipped, and the overall ambiance fosters focus and creativity.\n\nThe staff is incredibly friendly and always willing to assist, ensuring a smooth and hassle-free experience. The location is convenient, with easy access to nearby amenities, making it ideal for freelancers, startups, and remote teams.\n\nI highly recommend RezG Hub to anyone looking for a professional, well-organized, and inspiring co-working space!",
+      "A comfortable co-working place for board meetings and discussions. Staff are customer friendly and offer valuable service.\nIt's hard to find an affordable place like this in Colombo.\nUnfortunately, the restroom facility is very bad, and regular maintenance is questionable. Only one restroom for the whole area including co-working places and the meeting rooms.",
+      "A convenient place for the transports and a good place for a co-working space. The office chairs in the public area is not comfortable but can manage. The customer service is excellent and very helpful. All kind of necessary services have been provided in this place and you can have a good view of through their balcony. Can recommend them without hesitation.",
+      "Thank you Mr. Ghazali and Mr. Dinuka for amazing service. They offered their office space for my preliminary virtual interview with no charges at all. The ambience of the office space is well organized and professional with parking space at the basement. Mr. Dinuka provided heart warming services until the end. Happy to see some Good Souls in the heart of Colombo. I can strongly assure and recommend them to everyone with my own experience for the best service. ❤️🙏",
+      "Rezg Hub coworking space has been an incredible asset for my team. The administration is fantastic - they're friendly, approachable, and incredibly supportive. From helping with technical issues to facilitating networking opportunities, they go above and beyond to ensure a positive experience.\n\nThe community at Rezg Hub is also outstanding. Everyone is friendly, approachable, and always willing to lend a hand. It's more than just a workspace; it's a supportive environment where collaboration thrives.\n\nOverall, I highly recommend Rezg Hub to anyone looking for a welcoming coworking space with excellent administration and a supportive community. It's been a game-changer for us!"
+    ],
+    "clean_texts": [
+      "excellent co working space professional atmosphere rezg hub outstanding co working space perfectly balance comfort productivity workspace modern maintain thoughtfully design support individual work team collaboration meeting room equip overall ambiance foster focus creativity staff incredibly friendly willing assist ensure smooth hassle free experience location convenient easy access nearby amenity make ideal freelancer startup remote team highly recommend rezg hub look professional organize inspire co working space",
+      "comfortable co working place board meeting discussion staff customer friendly offer valuable service hard find affordable place like colombo unfortunately restroom facility bad regular maintenance questionable restroom area include co working place meeting room",
+      "convenient place transport good place co working space office chair public area comfortable manage customer service excellent helpful kind necessary service provide place good view balcony recommend hesitation",
+      "thank mr ghazali mr dinuka amazing service offer office space preliminary virtual interview charge ambience office space organized professional parking space basement mr dinuka provide heart warming service end happy good soul heart colombo strongly assure recommend experience good service",
+      "rezg hub coworke space incredible asset team administration fantastic friendly approachable incredibly supportive help technical issue facilitate network opportunity ensure positive experience community rezg hub outstanding friendly approachable willing lend hand workspace supportive environment collaboration thrive overall highly recommend rezg hub look welcome coworke space excellent administration supportive community game changer"
+    ],
+    "pos_tags_sample": [
+      [
+        "excellent",
+        "ADJ"
+      ],
+      [
+        "co",
+        "ADJ"
+      ],
+      [
+        "-",
+        "ADJ"
+      ],
+      [
+        "working",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "professional",
+        "ADJ"
+      ],
+      [
+        "atmosphere",
+        "NOUN"
+      ],
+      [
+        "!",
+        "PUNCT"
+      ],
+      [
+        "rezg",
+        "NOUN"
+      ],
+      [
+        "hub",
+        "PROPN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "an",
+        "DET"
+      ],
+      [
+        "outstanding",
+        "ADJ"
+      ],
+      [
+        "co",
+        "ADJ"
+      ],
+      [
+        "-",
+        "ADJ"
+      ],
+      [
+        "working",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "perfectly",
+        "ADV"
+      ],
+      [
+        "balances",
+        "VERB"
+      ],
+      [
+        "comfort",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "productivity",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "workspace",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "modern",
+        "ADJ"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "colombo",
+        "GPE"
+      ],
+      [
+        "only one",
+        "CARDINAL"
+      ],
+      [
+        "ghazali",
+        "PERSON"
+      ],
+      [
+        "dinuka",
+        "PERSON"
+      ],
+      [
+        "dinuka",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJ18Qco3pZ4joRynkSgxSB9Tg",
+    "name": "Nest by HUB9",
+    "address": "07 Turnour Rd, Colombo 00800, Sri Lanka",
+    "rating": 4.8,
+    "userRatingCount": 42,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Place is super nice, staff are very friendly and helpful. Good office chairs and Wifi super fast. Highly recommend it!!",
+      "Nice and simple place with friendly people. Had to get some work done in my last week in Sri Lanka and enjoyed doing it here! Thanks!",
+      "Great place to get your work done..\nLovely community..",
+      "An exceptional office space! The environment is modern and vibrant, fostering a collaborative and innovative atmosphere.",
+      "Best Co-Working Place of course... feels like our own office environment..."
+    ],
+    "clean_texts": [
+      "place super nice staff friendly helpful good office chair wifi super fast highly recommend",
+      "nice simple place friendly people work week sri lanka enjoy thank",
+      "great place work lovely community",
+      "exceptional office space environment modern vibrant foster collaborative innovative atmosphere",
+      "good co working place course feel like office environment"
+    ],
+    "pos_tags_sample": [
+      [
+        "place",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "super",
+        "ADV"
+      ],
+      [
+        "nice",
+        "ADJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "staff",
+        "NOUN"
+      ],
+      [
+        "are",
+        "AUX"
+      ],
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "friendly",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "helpful",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "good",
+        "ADJ"
+      ],
+      [
+        "office",
+        "NOUN"
+      ],
+      [
+        "chairs",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "wifi",
+        "NOUN"
+      ],
+      [
+        "super",
+        "ADV"
+      ],
+      [
+        "fast",
+        "ADV"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "highly",
+        "ADV"
+      ],
+      [
+        "recommend",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "!",
+        "PUNCT"
+      ],
+      [
+        "!",
+        "PUNCT"
+      ],
+      [
+        "nice",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "simple",
+        "ADJ"
+      ],
+      [
+        "place",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "last week",
+        "DATE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJ1SkjE9Jb4joRho2wKuQ3fds",
+    "name": "Catalyst by HUB9",
+    "address": "137 Bauddhaloka Mawatha, Colombo 00700, Sri Lanka",
+    "rating": 4.6,
+    "userRatingCount": 73,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "I’ve looked in to so many places around the Colombo and i'm glad I finally found this awesome place among all those. Clean, Peaceful and Friendly environment, very fast Wi-Fi, tea/coffee, free printing, not to forget the cozy sofas and bean bags! you’ve just got everything you need to be free and get your work done comfortably. This is the best place to start if you are taking that risky leap of running your own startup and doesn’t have a large capital to start with. These people here actually care about helping you out to start and grow your business. Highly recommended!",
+      "Quiet, well air conditioned space with comfortable ergonomic office furniture. I worked here undisturbed in perfect silence. The manager was welcoming and let me know about tea coffee/facilities and was quickly responsive to my queries. Meeting room has all the required facilities",
+      "Good place to initialize business with lower rates plus good standard compared to other competitors. The concept of providing Free High speed Wi fi, free colour printing, free tea/ coffe, and Business logos for private offices is remarkable. Well organized, cozy and tidy environment.  Appreciate the support given by the staff and efforts to make the area more beautiful.",
+      "Got a great checkin and welcome from Sameera, making it really easy to drop in and get to work. Designated eating areas, tea, and AC. Friendly coworkers and the natural light and decor in the first room make it easily the best place to work if there’s seats avail. No internet issues, was able to video call with US pretty smoothly.",
+      "Good coworking space conveniently located in Colombo 5. Caters to long term coworkers - ideal for small teams looking to grow. The space is divided into smaller rooms, all kept at around 16 degrees, so bring a woolly if you get cold. There is one meeting room and there are no phone booths, so everyone takes calls from their desks making it challenging to have a private conversation. Desks face the walls, but the team was accommodating to help me find a solution so I could work facing the room.\n\nThe community onsite is incredibly welcoming and friendly, everyone makes an effort to chat with you. There were no social events while I was there, nor does there seem to be a way to network with the teams and people coworking there - outside of handing your card around. This worked because everyone is so nice, might be harder for shy coworkers though.\n\nThe wifi was great, tea/coffee, filtered water available, nice outside yard that is unfortunately used for smokers. Sameera who manages the space is responsive and helpful, went out of her way to help me find a spot on her day off. Super cool.\n\nIf you're looking for a good place to work on a longer-term basis, Catalyst could be your new best place. Not ideal for nomads looking for flexible plans and networking/social events. Go see it though, the people might just sway you to stay."
+    ],
+    "clean_texts": [
+      "ve look place colombo glad finally find awesome place clean peaceful friendly environment fast wi fi tea coffee free printing forget cozy sofas bean bag ve get need free work comfortably good place start take risky leap run startup doesn t large capital start people actually care help start grow business highly recommend",
+      "quiet air condition space comfortable ergonomic office furniture work undisturbed perfect silence manager welcome let know tea coffee facility quickly responsive query meeting room require facility",
+      "good place initialize business low rate plus good standard compare competitor concept provide free high speed wi fi free colour printing free tea coffe business logo private office remarkable organize cozy tidy environment appreciate support give staff effort area beautiful",
+      "get great checkin welcome sameera make easy drop work designate eat area tea ac friendly coworker natural light decor room easily good place work s seat avail internet issue able video pretty smoothly",
+      "good coworke space conveniently locate colombo 5 cater long term coworker ideal small team look grow space divide small room keep 16 degree bring woolly cold meeting room phone booth take call desk make challenging private conversation desk face wall team accommodate help find solution work face room community onsite incredibly welcoming friendly make effort chat social event way network team people coworke outside hand card work nice hard shy coworker wifi great tea coffee filter water available nice outside yard unfortunately smoker sameera manage space responsive helpful go way help find spot day super cool look good place work long term basis catalyst new good place ideal nomad look flexible plan network social event people sway stay"
+    ],
+    "pos_tags_sample": [
+      [
+        "i",
+        "PRON"
+      ],
+      [
+        "ve",
+        "AUX"
+      ],
+      [
+        "looked",
+        "VERB"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "many",
+        "ADJ"
+      ],
+      [
+        "places",
+        "NOUN"
+      ],
+      [
+        "around",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "colombo",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "i",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "glad",
+        "ADJ"
+      ],
+      [
+        "i",
+        "PRON"
+      ],
+      [
+        "finally",
+        "ADV"
+      ],
+      [
+        "found",
+        "VERB"
+      ],
+      [
+        "this",
+        "DET"
+      ],
+      [
+        "awesome",
+        "ADJ"
+      ],
+      [
+        "place",
+        "NOUN"
+      ],
+      [
+        "among",
+        "ADP"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "those",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "clean",
+        "ADJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "peaceful",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "friendly",
+        "ADJ"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "ac",
+        "ORG"
+      ],
+      [
+        "first",
+        "ORDINAL"
+      ],
+      [
+        "colombo 5",
+        "FAC"
+      ],
+      [
+        "around 16 degrees",
+        "QUANTITY"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "her day",
+        "DATE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJQ2FkpuxR4joR3hm02ckubnc",
+    "name": "Co Work Sri Lanka",
+    "address": "279 Avissawella Rd, Pannipitiya 10230, Sri Lanka",
+    "rating": 4.9,
+    "userRatingCount": 39,
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Looking for a quiet and productive work space near Kottawa? This is it. You will find more like-minded people here.  Co work Sri Lanka is the best Co working space you will find. Get a private meeting room for your needs. You can work freely without any disturbance and even get a little Foosball break.\nSpecially for freelancers. There are spaces available for all kind of your needs. You can try as you need. Need a coffee while working? They’ll have it. They also have a studio there. Once try it and you’ll never regret. The management is friendly and you can ask your needs according to their guidelines. Highly recommended!",
+      "I recently had the pleasure of utilizing the services at Co Work Sri Lanka, and I must say, it exceeded my expectations. The environment provided an ideal setting for productivity, and the servers offered reliable performance, enhancing my workflow significantly.\n\nThe facilities were top-notch, equipped with everything one could need for a productive workday. The servers were particularly impressive, offering fast and stable connectivity, which is essential for my line of work. 😊\n\nOverall, my experience at Co Work Sri Lanka was excellent. It's undoubtedly a great place to work, with exceptional amenities and a supportive staff. I highly recommend it to anyone looking for a productive and comfortable workspace.😍",
+      "Co Work Sri Lanka in Pannipitiya is a great place to work. The staff is friendly and they offer free coffee. The internet is super fast, which is awesome. The workspace is comfy with lots of light. Whether you're working alone or with others, it's a good spot to get things done",
+      "I've tried out a few coworking spaces in Sri Lanka, but this place is truly stands out. The environment is fantastic - it's quiet, focused, and perfect for getting things done. The staff is incredibly supportive, which is a big plus.\n\nThey offer a great variety of work areas, including meeting rooms, dedicated workspaces, and even top-notch media rooms with everything you need for presentations or video calls (lighting, audio, video streaming - I've used them all and they're excellent).\n\nThe internet speed is very good and also they throw in a couple of free cups of tea throughout the day, which is a nice touch.\n\nWhen you consider all these benefits, the price is very fair. They even have parking available, which is a bonus in some areas.\n\nOverall, Cowork Sri Lanka is a fantastic option for anyone looking for a productive and supportive coworking space in Sri Lanka. Highly recommend!",
+      "As a freelancer, finding the perfect co-working space is crucial for both productivity and comfort. Co Work Sri Lanka, located conveniently in the Kottawa Pannipitiya area, has exceeded all my expectations and I am compelled to give it a well-deserved five-star rating.\n\nThe concept of co-working is brought to life here with a vibrant and dynamic environment. The shared spaces are not only aesthetically pleasing but also highly functional, fostering a community atmosphere that is both collaborative and inspiring. Whether you're an entrepreneur, a remote worker, or a creative soul, the ambiance here is conducive to innovative and focused work.\n\nOne of the standout features of Co Work Sri Lanka is its variety of meeting rooms. These spaces are equipped with all the necessary technology and are perfect for brainstorming sessions, client meetings, or even just a quiet space to focus. The flexibility to book these rooms as per our needs adds a layer of convenience that is hard to find elsewhere.\n\nFor content creators like me, the YouTube studio is a gem. It's well-equipped, professional, and ideal for creating high-quality content. This unique feature sets Co Work Sri Lanka apart, making it more than just a workspace but a hub for creativity and digital excellence.\n\nIn summary, Co Work Sri Lanka is not just a workspace, it's a community and a resource for professionals of all kinds. Its ideal location, combined with top-notch facilities like shared spaces, meeting rooms, and a YouTube studio, makes it the best co-working space in the Kottawa Pannipitiya area. I highly recommend it to anyone looking for a space that offers more than just a desk. Co Work Sri Lanka is where work feels like a part of a bigger, more exciting journey."
+    ],
+    "clean_texts": [
+      "look quiet productive work space near kottawa find like minded people co work sri lanka good co work space find private meeting room need work freely disturbance little foosball break specially freelancer space available kind need try need need coffee work ll studio try ll regret management friendly ask need accord guideline highly recommend",
+      "recently pleasure utilize service co work sri lanka exceed expectation environment provide ideal setting productivity server offer reliable performance enhance workflow significantly facility notch equip need productive workday server particularly impressive offer fast stable connectivity essential line work overall experience co work sri lanka excellent undoubtedly great place work exceptional amenity supportive staff highly recommend look productive comfortable workspace",
+      "co work sri lanka pannipitiya great place work staff friendly offer free coffee internet super fast awesome workspace comfy lot light work good spot thing",
+      "try coworking space sri lanka place truly stand environment fantastic quiet focused perfect get thing staff incredibly supportive big plus offer great variety work area include meet room dedicated workspace notch medium room need presentation video call lighting audio video streaming excellent internet speed good throw couple free cup tea day nice touch consider benefit price fair parking available bonus area overall cowork sri lanka fantastic option look productive supportive coworke space sri lanka highly recommend",
+      "freelancer find perfect co working space crucial productivity comfort co work sri lanka locate conveniently kottawa pannipitiya area exceed expectation compel deserve star rating concept co working bring life vibrant dynamic environment share space aesthetically pleasing highly functional foster community atmosphere collaborative inspiring entrepreneur remote worker creative soul ambiance conducive innovative focused work standout feature co work sri lanka variety meet room space equip necessary technology perfect brainstorming session client meeting quiet space focus flexibility book room need add layer convenience hard find content creator like youtube studio gem equip professional ideal create high quality content unique feature set co work sri lanka apart make workspace hub creativity digital excellence summary co work sri lanka workspace community resource professional kind ideal location combine notch facility like share space meet room youtube studio make good co working space kottawa pannipitiya area highly recommend look space offer desk co work sri lanka work feel like big exciting journey"
+    ],
+    "pos_tags_sample": [
+      [
+        "looking",
+        "VERB"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "quiet",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "productive",
+        "ADJ"
+      ],
+      [
+        "work",
+        "NOUN"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "near",
+        "ADP"
+      ],
+      [
+        "kottawa",
+        "PROPN"
+      ],
+      [
+        "?",
+        "PUNCT"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "will",
+        "AUX"
+      ],
+      [
+        "find",
+        "VERB"
+      ],
+      [
+        "more",
+        "ADJ"
+      ],
+      [
+        "like",
+        "ADJ"
+      ],
+      [
+        "-",
+        "PUNCT"
+      ],
+      [
+        "minded",
+        "ADJ"
+      ],
+      [
+        "people",
+        "NOUN"
+      ],
+      [
+        "here",
+        "ADV"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "co",
+        "PROPN"
+      ],
+      [
+        "work",
+        "PROPN"
+      ],
+      [
+        "sri",
+        "PROPN"
+      ],
+      [
+        "lanka",
+        "PROPN"
+      ],
+      [
+        "is",
+        "AUX"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "kottawa",
+        "GPE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "co work sri lanka",
+        "ORG"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "the day",
+        "DATE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "kottawa",
+        "GPE"
+      ],
+      [
+        "five",
+        "CARDINAL"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "kottawa",
+        "GPE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJQxv_WtJb4joRjC7Gps-5kMI",
+    "name": "Impressions Spaces Coworking Centre",
+    "address": "1st Floor, 366 Galle - Colombo Rd, Colombo 00300, Sri Lanka",
+    "rating": 5,
+    "userRatingCount": 27,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Impressions Spaces is a quiet, cozy and calming coworking centre. Comfortable enough to feel at home, focused enough to get things done.",
+      "Impression Spaces deserves 10 out of 10 stars! I loved working here - the environment is bright and inviting, with free high-speed WiFi and complimentary coffee, tea, and snacks to fuel creativity. The management team is extremely flexible and friendly, making this a wonderful place to work or meet clients. There's a great social vibe and the location is very convenient. I'd highly recommend Impression Spaces for anyone looking for an awesome coworking space!\"",
+      "Although I was here for a short period of time, I can guarantee that this is an incredibly friendly, comfortable and professional place to get work/studying done without any hassle.\n\nThe environment is peaceful with less disturbances. The managers are extremely kind and responsive. They are always ready to help you out with whatever problem you face at the co-working space.\n\nThe high speed internet enabled me attend my online classes.\n\nAlso, you don't have to worry about cleanliness, the place gets cleaned daily, even on weekends!",
+      "Checked out this place. Love the homely style, the lounge area and tea kitchen. The owner is very friendly. Also really love the flexible hourly rates and the flexi days u can use over a month (alot more cowork spaces need to do this).",
+      "Impressions spaces is honestly the best location to work at. The atmosphere and people you meet is perfect. The amenities are all there. Located perfectly so you can catch the bus/train or even buy groceries at ease. If its for work or even to study, Impressions space is for you."
+    ],
+    "clean_texts": [
+      "impression space quiet cozy calm coworke centre comfortable feel home focus thing",
+      "impression space deserve 10 10 star love work environment bright inviting free high speed wifi complimentary coffee tea snack fuel creativity management team extremely flexible friendly make wonderful place work meet client great social vibe location convenient highly recommend impression space look awesome coworke space",
+      "short period time guarantee incredibly friendly comfortable professional place work study hassle environment peaceful disturbance manager extremely kind responsive ready help problem face co working space high speed internet enable attend online class worry cleanliness place get clean daily weekend",
+      "check place love homely style lounge area tea kitchen owner friendly love flexible hourly rate flexi day u use month alot cowork space need",
+      "impression space honestly good location work atmosphere people meet perfect amenity locate perfectly catch bus train buy grocery ease work study impression space"
+    ],
+    "pos_tags_sample": [
+      [
+        "impressions",
+        "NOUN"
+      ],
+      [
+        "spaces",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "quiet",
+        "ADJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "cozy",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "calming",
+        "VERB"
+      ],
+      [
+        "coworking",
+        "VERB"
+      ],
+      [
+        "centre",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "comfortable",
+        "ADJ"
+      ],
+      [
+        "enough",
+        "ADV"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "feel",
+        "VERB"
+      ],
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "home",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "focused",
+        "VERB"
+      ],
+      [
+        "enough",
+        "ADV"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "get",
+        "VERB"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        "done",
+        "VERB"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "impression",
+        "NOUN"
+      ],
+      [
+        "spaces",
+        "NOUN"
+      ],
+      [
+        "deserves",
+        "VERB"
+      ],
+      [
+        "10",
+        "NUM"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "10",
+        "CARDINAL"
+      ],
+      [
+        "10",
+        "CARDINAL"
+      ],
+      [
+        "daily",
+        "DATE"
+      ],
+      [
+        "hourly",
+        "TIME"
+      ],
+      [
+        "the flexi days",
+        "DATE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJe2FWgaFb4joRnuRe2Eb1ih4",
+    "name": "WORX Jawatte House",
+    "address": "47/1 Jawatta Rd, Colombo 00500, Sri Lanka",
+    "rating": 4.6,
+    "userRatingCount": 171,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "I’ve visited this place multiple times for photoshoots and as a peaceful workspace. It’s the perfect spot for anyone seeking a calm, creative environment. The greenery and serene atmosphere help me unwind every time. The friendly staff, combined with reasonable prices, make it a must-visit. Highly recommended for both shoots and quiet work sessions.",
+      "I worked here over the weekend, and they provide stable Wifi connection, tea service and hot desk facility with AC for very reasonable price. Highly recommend this place for all your meeting, co working requirements.  Ambiance is nice and the environment is very relaxing to the mind",
+      "A nice setup to work. Most of the time hot seats are available and you do get two coffee/tea sessions for the price. Staff is quite helpful. Also have a lunch area to take meals.\n\nIf you have your own WiFi it’s hard to connect when you’re inside. Would be ideal if it’s less crowded if you’re staying outside because sometimes they get occupied with photo shoots.",
+      "Decent and calm place to work. Hot desks and meeting rooms available. They offer wifi, power and a plain tea (if requested). Affordable prices and good service.",
+      "Love the boardroom. Nice atmosphere. Used for an online presentation and booked last min. The  surrounding so refreshing which helped me to release presentation stress . WIFI was stable and A/C also there. So if you are looking for a place with refreshing environment this is ideal."
+    ],
+    "clean_texts": [
+      "ve visit place multiple time photoshoot peaceful workspace s perfect spot seek calm creative environment greenery serene atmosphere help unwind time friendly staff combine reasonable price visit highly recommend shoot quiet work session",
+      "work weekend provide stable wifi connection tea service hot desk facility ac reasonable price highly recommend place meeting co work requirement ambiance nice environment relaxing mind",
+      "nice setup work time hot seat available coffee tea session price staff helpful lunch area meal wifi s hard connect inside ideal s crowded stay outside occupy photo shoot",
+      "decent calm place work hot desk meet room available offer wifi power plain tea request affordable price good service",
+      "love boardroom nice atmosphere online presentation book min surround refreshing help release presentation stress wifi stable c look place refreshing environment ideal"
+    ],
+    "pos_tags_sample": [
+      [
+        "i",
+        "PRON"
+      ],
+      [
+        "ve",
+        "AUX"
+      ],
+      [
+        "visited",
+        "VERB"
+      ],
+      [
+        "this",
+        "DET"
+      ],
+      [
+        "place",
+        "NOUN"
+      ],
+      [
+        "multiple",
+        "ADJ"
+      ],
+      [
+        "times",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "photoshoots",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "as",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "peaceful",
+        "ADJ"
+      ],
+      [
+        "workspace",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "s",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "perfect",
+        "ADJ"
+      ],
+      [
+        "spot",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "anyone",
+        "PRON"
+      ],
+      [
+        "seeking",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "calm",
+        "ADJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "creative",
+        "ADJ"
+      ],
+      [
+        "environment",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "greenery",
+        "ORG"
+      ],
+      [
+        "the weekend",
+        "DATE"
+      ],
+      [
+        "ac",
+        "ORG"
+      ],
+      [
+        "two",
+        "CARDINAL"
+      ],
+      [
+        "last min",
+        "DATE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJWxHiRM1b4joRZ5MD9QyBwhY",
+    "name": "HUB9 Coworking Space",
+    "address": "410, 137 Bauddhaloka Mawatha, Colombo 00700, Sri Lanka",
+    "rating": 4.6,
+    "userRatingCount": 51,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "This is an excellent space to work. The vision is to contribute vibe beyond a stereotypical office atmosphere. The Directors of Chapzi & Co. (Pvt) Ltd. started this Co working in Colombo  while breaking the mindset you would hold towards the mundane receptions at companies.\n\nThe cozy vibe in here is no different than the feeling you get from your home. Meeting room, lounge, kitchen/pantry/smoking area, printing facilities (the stationary are free), unlimited tea/coffee/juices and a person to make them upon your request!\n\nIf you're interested in working on a daily/weekly or monthly basis for a reasonable price, then you should head over there.\n\nThe Catalyst by Hub9 is at No.148, Fife Road, Colombo 5. It is the new space set up by the Hub9 Co Working Space, Colombo 5.",
+      "Nice coworking center in Colombo. It saved us during a power outage at our house. There's a dining area, air conditioning, and coffee available.",
+      "One of the most interesting places to do your work without any disturbance.. Really good for you to work because you get to engage with other people who are into different business and the best thing is the space is well interactive. I have been with these pals for like 8 months and I can recommend the space to any startup companies out there. The flexibility in accessing the building anytime you want is my favorite. You can get your own kind of snacks and juices prepared by the office assistant and they've got a branded juicer for the purpose! The kitchen is well equipped and the hygiene is on point!",
+      "Been working from here since 2016 and though I could talk about the awesome WiFi, generous desk space and convenient location, the best thing about Hub9 is the friendly atmosphere. There’s a good mix of entrepreneurs that make coffee breaks interesting and the folks that run Hub9 simply go out of the way to help you. I’ve learnt so much and met some great people along the way. The atmosphere of community and collaboration is excellent and vibe is perfect for getting things done. A spacious conference room, free coffee, 24/7 access and unlimited printing are just some of the other great benefits about this place. You’ve basically got everything you need.",
+      "I've worked in and out of coworking spaces for most of my professional life. I can definitely vouch for the unmatched customer experience offered by Hub9. It offers all the elements necessary to have a comfortable work experience irrespective of the job whether you are an individual or a team. The young team behind Hub9 is highly approachable and they have done a marvelous job in creating an environment where great ideas can be born and executed. Very impressed to see this in Sri Lanka."
+    ],
+    "clean_texts": [
+      "excellent space work vision contribute vibe stereotypical office atmosphere director chapzi pvt ltd start co work colombo break mindset hold mundane reception company cozy vibe different feeling home meeting room lounge kitchen pantry smoking area printing facility stationary free unlimited tea coffee juice person request interested work daily weekly monthly basis reasonable price head catalyst fife road colombo 5 new space set co working space colombo 5",
+      "nice coworke center colombo save power outage house dining area air conditioning coffee available",
+      "interesting place work disturbance good work engage people different business good thing space interactive pal like 8 month recommend space startup company flexibility access building anytime want favorite kind snack juice prepare office assistant get brand juicer purpose kitchen equip hygiene point",
+      "work 2016 talk awesome wifi generous desk space convenient location good thing friendly atmosphere s good mix entrepreneur coffee break interesting folk run simply way help ve learn meet great people way atmosphere community collaboration excellent vibe perfect get thing spacious conference room free coffee 24 7 access unlimited printing great benefit place ve basically get need",
+      "work coworke space professional life definitely vouch unmatched customer experience offer offer element necessary comfortable work experience irrespective job individual team young team highly approachable marvelous job create environment great idea bear execute impressed sri lanka"
+    ],
+    "pos_tags_sample": [
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "an",
+        "DET"
+      ],
+      [
+        "excellent",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "work",
+        "VERB"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "vision",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "contribute",
+        "VERB"
+      ],
+      [
+        "vibe",
+        "NOUN"
+      ],
+      [
+        "beyond",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "stereotypical",
+        "ADJ"
+      ],
+      [
+        "office",
+        "NOUN"
+      ],
+      [
+        "atmosphere",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "directors",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "chapzi",
+        "PROPN"
+      ],
+      [
+        "co.",
+        "PROPN"
+      ],
+      [
+        "pvt",
+        "PROPN"
+      ],
+      [
+        "ltd",
+        "PROPN"
+      ],
+      [
+        ".",
+        "PROPN"
+      ],
+      [
+        "started",
+        "VERB"
+      ],
+      [
+        "this",
+        "DET"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "chapzi co. pvt ltd.",
+        "ORG"
+      ],
+      [
+        "daily",
+        "DATE"
+      ],
+      [
+        "weekly",
+        "DATE"
+      ],
+      [
+        "monthly",
+        "DATE"
+      ],
+      [
+        "hub9",
+        "NORP"
+      ],
+      [
+        "no.148",
+        "NORP"
+      ],
+      [
+        "5",
+        "CARDINAL"
+      ],
+      [
+        "hub9",
+        "NORP"
+      ],
+      [
+        "5",
+        "CARDINAL"
+      ],
+      [
+        "colombo",
+        "GPE"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "like 8 months",
+        "DATE"
+      ],
+      [
+        "2016",
+        "DATE"
+      ],
+      [
+        "hub9",
+        "NORP"
+      ],
+      [
+        "hub9",
+        "NORP"
+      ],
+      [
+        "24 7",
+        "DATE"
+      ],
+      [
+        "hub9",
+        "NORP"
+      ],
+      [
+        "hub9",
+        "PERSON"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJgYJ99wJX4joRuOCLwrkcjvw",
+    "name": "Hacker House Co-working & Studio",
+    "address": "B47 Battaramulla - Pannipitiya Rd, Battaramulla 10120, Sri Lanka",
+    "rating": 4.9,
+    "userRatingCount": 60,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "I had a fantastic experience at this studio! The atmosphere was great, and the equipment was top-notch.\n\neverything was clean, well-maintained, and worked perfectly. Highly recommended for anyone looking for a quality studio experience!",
+      "Hacker House is a great place to work freely and stay focused. The internet connection is fast and reliable, which really helps with productivity. I also appreciate the small area where anyone can make their own coffee or tea. The owner creates a friendly and welcoming environment, which makes the space even more enjoyable. I’ll definitely be coming back!",
+      "Awesome space! Well-organized setup with fast Wi-Fi and friendly staff. A perfect place to stay focused and productive.",
+      "I have recently visited Hacker House Co-working & Studio in Battaramulla town to take some photos for my project, and I was really impressed when I got in. Conveniently located in the center of Battaramulla, just a short walk from the bus stop, this 3-story co-working hub is modern, spacious, and has an energetic atmosphere that’s perfect for freelancers, remote workers, and entrepreneurs looking for a professional yet creative environment.\n\nThe work areas are modern, comfortable and well-designed, making it easy to stay productive. I especially liked that they have a fully equipped studio with a green screen, which is ideal for content creators, photographers, and videographers. The rates are very reasonable compared to other co-working spaces in town, which makes it an even better value.\n\nIf you’re looking for a great coworking space in Battaramulla town, whether for daily work, creative projects, or networking with other professionals, I’d definitely recommend Hacker House Co-working & Studio. I’m considering coming back again soon!",
+      "A very good co-working space. This has been my going to place to work. Calm environment. Free coffee/tea is very helpful."
+    ],
+    "clean_texts": [
+      "fantastic experience studio atmosphere great equipment notch clean maintain work perfectly highly recommend look quality studio experience",
+      "hacker house great place work freely stay focused internet connection fast reliable help productivity appreciate small area coffee tea owner create friendly welcoming environment make space enjoyable ll definitely come",
+      "awesome space organize setup fast wi fi friendly staff perfect place stay focused productive",
+      "recently visit hacker house co working studio battaramulla town photo project impressed get conveniently locate center battaramulla short walk bus stop 3 story co working hub modern spacious energetic atmosphere s perfect freelancer remote worker entrepreneur look professional creative environment work area modern comfortable design make easy stay productive especially like fully equip studio green screen ideal content creator photographer videographer rate reasonable compare co working space town make well value look great coworke space battaramulla town daily work creative project network professional d definitely recommend hacker house co working studio m consider come soon",
+      "good co working space go place work calm environment free coffee tea helpful"
+    ],
+    "pos_tags_sample": [
+      [
+        "i",
+        "PRON"
+      ],
+      [
+        "had",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "fantastic",
+        "ADJ"
+      ],
+      [
+        "experience",
+        "NOUN"
+      ],
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "this",
+        "DET"
+      ],
+      [
+        "studio",
+        "NOUN"
+      ],
+      [
+        "!",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "atmosphere",
+        "NOUN"
+      ],
+      [
+        "was",
+        "AUX"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "equipment",
+        "NOUN"
+      ],
+      [
+        "was",
+        "AUX"
+      ],
+      [
+        "top",
+        "ADJ"
+      ],
+      [
+        "-",
+        "PUNCT"
+      ],
+      [
+        "notch",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "everything",
+        "PRON"
+      ],
+      [
+        "was",
+        "AUX"
+      ],
+      [
+        "clean",
+        "ADJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "well",
+        "ADV"
+      ],
+      [
+        "-",
+        "PUNCT"
+      ],
+      [
+        "maintained",
+        "VERB"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "3",
+        "CARDINAL"
+      ],
+      [
+        "daily",
+        "DATE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJTTdXX1tZ4joR_CnUZNdbB8M",
+    "name": "Likuid Spaces",
+    "address": "One Galle Face Tower, Level 12, 1A Centre Road, Colombo 00200, Sri Lanka",
+    "rating": 5,
+    "userRatingCount": 46,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Cool space! A no-brainer if you can afford it.\n\nThe common space has wireless chargers, 2 Framery one soundproof office pods and there is a Temi robot, which primarily acts as a tour guide.\n\nDigital keys for access control; free tea/coffee served to your private space at the tap of a button, great views, a comfortable space and friendly service.\n\nHowever, based on your plan, dedicated parking spots can be limited.",
+      "Cool place to work and i love the vibe and interior as well. Well furnished and organized interior space.",
+      "The office is well-designed, featuring top-notch cubicles with exceptional lighting systems and comfortable chairs. Additionally, it offers convenient access to One Galle Face Mall, making it an ideal location.",
+      "I highly recommend Likuid Spaces that the first high tech touch workaholic space I have ever seen in Sri Lanka. It's not just convenient and updated but equipped with cutting-edge technology. The friendly staff provides flexible guidance, making it a work haven. I invite to all to experience a seamless blend of productivity and comfort!",
+      "Whether you're hosting a client meeting, a team workshop, or a corporate event, Likud Spaces provides the perfect blend of functionality and gastronomic pleasure. I highly recommend it to anyone in search of a top-notch office space that not only handles business needs but also elevates the overall experience with exceptional food offerings. [Location Name] truly stands out as a gem in the realm of versatile and high-quality office spaces."
+    ],
+    "clean_texts": [
+      "cool space brainer afford common space wireless charger 2 framery soundproof office pod temi robot primarily act tour guide digital key access control free tea coffee serve private space tap button great view comfortable space friendly service base plan dedicated parking spot limit",
+      "cool place work love vibe interior furnished organize interior space",
+      "office design feature notch cubicle exceptional lighting system comfortable chair additionally offer convenient access galle face mall make ideal location",
+      "highly recommend likuid space high tech touch workaholic space see sri lanka convenient update equip cut edge technology friendly staff provide flexible guidance make work haven invite experience seamless blend productivity comfort",
+      "host client meeting team workshop corporate event likud space provide perfect blend functionality gastronomic pleasure highly recommend search notch office space handle business need elevate overall experience exceptional food offering location truly stand gem realm versatile high quality office space"
+    ],
+    "pos_tags_sample": [
+      [
+        "cool",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "!",
+        "PUNCT"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "no",
+        "DET"
+      ],
+      [
+        "-",
+        "PUNCT"
+      ],
+      [
+        "brainer",
+        "NOUN"
+      ],
+      [
+        "if",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "can",
+        "AUX"
+      ],
+      [
+        "afford",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "common",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "has",
+        "VERB"
+      ],
+      [
+        "wireless",
+        "ADJ"
+      ],
+      [
+        "chargers",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "2",
+        "NUM"
+      ],
+      [
+        "framery",
+        "NOUN"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "soundproof",
+        "ADJ"
+      ],
+      [
+        "office",
+        "NOUN"
+      ],
+      [
+        "pods",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "there",
+        "PRON"
+      ],
+      [
+        "is",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "2",
+        "CARDINAL"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "temi",
+        "GPE"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "galle",
+        "ORG"
+      ],
+      [
+        "first",
+        "ORDINAL"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "likud",
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJN3wMZf9b4joR4tJR4-YlJMQ",
+    "name": "CO-LABs Coworking",
+    "address": "21st Floor Mireka Tower, Havelock City, Colombo 00500, Sri Lanka",
+    "rating": 5,
+    "userRatingCount": 72,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "The meeting room is an excellent choice for a professional setup, whether for individual work, group meetings, or office tasks. It helps create a great impression with clients and employees alike. I’m highly satisfied with the service and would strongly recommend it. The pricing is very economical, and the added bonus of a free coffee machine makes the experience even better.",
+      "I’ve been working here for few days now and honestly, Co-lab co-working space has exceeded my expectations.\n\nFrom day one, I felt the difference, it’s well organized, the environment is professional, and the staff are friendly & helpful.\n\nWhat I really appreciate is how clean and tidy everything is, and the fact that there’s very little background noise. It makes it so much easier to focus and actually get work done without distractions.\n\nThe high-speed 5G internet has been super reliable, which is a must for me, and the little touches like the coffee machine and water filter just add to the comfort.\n\nThe setup itself is amazing, ergonomic chairs that are comfortable even after hours of work, sturdy wooden tables with dividers that give you privacy when you need it.\n\nand the cherry on top: the absolutely stunning view of Colombo from the 21st floor. There’s something inspiring about working while looking out at the city, it gives a fresh energy to the workday.\n\nOverall, I’d genuinely recommend this space to anyone looking for a productive, comfortable, and inspiring place to work.\nIt’s been such a positive experience for me, and I’d rate it a solid 10/10!",
+      "Great co-working space with lovely atmosphere and ambience and an awesome view of the Colombo skyline.\nPlenty of smaller meeting/conference rooms and also cubicles for breakout meetings but also enough workstations to support larger office groups.\nThere's also a specialised podcast studio available which is pretty cool and not something I've seen anywhere else.\nAnd gotta give a huge shout-out to the coffee machine and free coffee which in my opinion really should be mandatory at any co-working space!",
+      "CO-LABs Coworking is one of my favorite places to work. The space is spacious and well-designed, perfect for meetings and training sessions. The coffee is excellent — definitely a highlight! The staff are very friendly, helpful, and make the experience even better. It’s a super convenient spot that has everything we need for a productive day. Highly recommended!",
+      "It was a wow experience we had in CO LABS. All the facilities were provided into a high standard also very clean and tidy working space. Highly recommended"
+    ],
+    "clean_texts": [
+      "meeting room excellent choice professional setup individual work group meeting office task help create great impression client employee alike m highly satisfied service strongly recommend pricing economical add bonus free coffee machine make experience well",
+      "ve work day honestly co lab co working space exceed expectation day feel difference s organize environment professional staff friendly helpful appreciate clean tidy fact s little background noise make easy focus actually work distraction high speed 5 g internet super reliable little touch like coffee machine water filter add comfort setup amazing ergonomic chair comfortable hour work sturdy wooden table divider privacy need cherry absolutely stunning view colombo 21st floor s inspire work look city give fresh energy workday overall d genuinely recommend space look productive comfortable inspire place work s positive experience d rate solid 10 10",
+      "great co working space lovely atmosphere ambience awesome view colombo skyline plenty small meeting conference room cubicle breakout meeting workstation support large office group specialised podcast studio available pretty cool see get to huge shout coffee machine free coffee opinion mandatory co working space",
+      "co lab coworke favorite place work space spacious design perfect meeting training session coffee excellent definitely highlight staff friendly helpful experience well s super convenient spot need productive day highly recommend",
+      "wow experience co lab facility provide high standard clean tidy working space highly recommend"
+    ],
+    "pos_tags_sample": [
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "meeting",
+        "NOUN"
+      ],
+      [
+        "room",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "an",
+        "DET"
+      ],
+      [
+        "excellent",
+        "ADJ"
+      ],
+      [
+        "choice",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "professional",
+        "ADJ"
+      ],
+      [
+        "setup",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "whether",
+        "SCONJ"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "individual",
+        "ADJ"
+      ],
+      [
+        "work",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "group",
+        "NOUN"
+      ],
+      [
+        "meetings",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "or",
+        "CCONJ"
+      ],
+      [
+        "office",
+        "NOUN"
+      ],
+      [
+        "tasks",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "helps",
+        "VERB"
+      ],
+      [
+        "create",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        "impression",
+        "NOUN"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "day one",
+        "DATE"
+      ],
+      [
+        "5",
+        "CARDINAL"
+      ],
+      [
+        "hours",
+        "TIME"
+      ],
+      [
+        "the 21st",
+        "DATE"
+      ],
+      [
+        "workday",
+        "DATE"
+      ],
+      [
+        "10 10",
+        "CARDINAL"
+      ],
+      [
+        "a productive day",
+        "DATE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJYQfomz9a4joRc_LHJRMMpsw",
+    "name": "Nugegoda Business Centre",
+    "address": "80 Nawala Rd, Nugegoda 10250, Sri Lanka",
+    "rating": 4.6,
+    "userRatingCount": 104,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Nice place. Good environment for meetings.",
+      "Have many companies located provides different industries",
+      "This is a fantastic Co-working space for anyone looking to have a Colombo based business…and the in house food is to die for!\n\nI was recommended this place by a friend of mine and I must say that it has exceeded my expectations. I have worked all over the world and have found Co-working spaces hit and miss.\n\nFrom the moment I walked through the office door, I was greeted warmly by the owner, Mr. Sudinna Dadallage and made to feel instantly welcome.\n\nThe business centre is busy with a whole range of businesses, some established and some startups. This made the atmosphere really buzzing and everyone was friendly.\n\nThe absolute highlight for me is the rooftop cafe/restaurant and common area. The views of Colombo are amazing and I found it really tranquil to work there.\n\nThe homemade style food was outstanding and has to rank up there with some of the best I have eaten throughout Sri Lanka. The chef is Shanika and she works so hard to produce great tasting food to please her customers and suit their individual palates. Nothing was too much to ask and Shanika went to great lengths to cater for my business meetings and sometimes larger groups.\n\nStop by the Nugegoda Business Centre today, meet Sudinna and the team and relax in the rooftop lounge area - you cannot beat it!",
+      "A lovely place!! Awesome that it has the kind of security it does. A very comfortable place to walk into with super comfory furniture that put you at ease immediately. Warm welcomes from the team with a lovely lounge and wonderful kitchen on the 5th floor with an amazing, warm and talented cook.\n\nThe conference room is spacious for groups to come in for corporate meetings and events and the lounge is a superb location and setting for birthdays, parties, hen/bachelor parties, byob gatherings and so much more. A wonderfully peaceful place with a long and spacious balcony with for outdoor seating and wonderful for BBQs !\n\nWe had our 1st meeting there and lunch was simply amazing...she treated us to a Sri Lankan Biriyani that was flavourful and delicious!\n\nSimply love the owners Sudina and Shanika. Awesome  place guys!",
+      "Very nice work space friendly staff and unlimited tea coffee worth getting a work space."
+    ],
+    "clean_texts": [
+      "nice place good environment meeting",
+      "company locate provide different industry",
+      "fantastic co working space look colombo base business house food die recommend place friend exceed expectation work world find co working space hit miss moment walk office door greet warmly owner mr sudinna dadallage feel instantly welcome business centre busy range business establish startup atmosphere buzz friendly absolute highlight rooftop cafe restaurant common area view colombo amazing find tranquil work homemade style food outstanding rank good eat sri lanka chef shanika work hard produce great tasting food customer suit individual palate ask shanika go great length cater business meeting large group stop nugegoda business centre today meet sudinna team relax rooftop lounge area beat",
+      "lovely place awesome kind security comfortable place walk super comfory furniture ease immediately warm welcome team lovely lounge wonderful kitchen 5th floor amazing warm talented cook conference room spacious group come corporate meeting event lounge superb location set birthday party hen bachelor party byob gathering wonderfully peaceful place long spacious balcony outdoor seating wonderful bbqs 1st meeting lunch simply amazing treat sri lankan biriyani flavourful delicious simply love owner sudina shanika awesome place guy",
+      "nice work space friendly staff unlimited tea coffee worth get work space"
+    ],
+    "pos_tags_sample": [
+      [
+        "nice",
+        "ADJ"
+      ],
+      [
+        "place",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "good",
+        "ADJ"
+      ],
+      [
+        "environment",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "meetings",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "have",
+        "AUX"
+      ],
+      [
+        "many",
+        "ADJ"
+      ],
+      [
+        "companies",
+        "NOUN"
+      ],
+      [
+        "located",
+        "VERB"
+      ],
+      [
+        "provides",
+        "VERB"
+      ],
+      [
+        "different",
+        "ADJ"
+      ],
+      [
+        "industries",
+        "NOUN"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "fantastic",
+        "ADJ"
+      ],
+      [
+        "co",
+        "ADJ"
+      ],
+      [
+        "-",
+        "ADJ"
+      ],
+      [
+        "working",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "anyone",
+        "PRON"
+      ],
+      [
+        "looking",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "colombo",
+        "NOUN"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "sudinna",
+        "PERSON"
+      ],
+      [
+        "today",
+        "DATE"
+      ],
+      [
+        "5th",
+        "ORDINAL"
+      ],
+      [
+        "byob",
+        "GPE"
+      ],
+      [
+        "1st",
+        "ORDINAL"
+      ],
+      [
+        "lankan",
+        "NORP"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJd6x58ZpZ4joRDaZsRBhdPBE",
+    "name": "Elegance",
+    "address": "02, Rajagiriya gardens 2nd Lane, Nawala Rd, Sri Lanka",
+    "rating": 4.9,
+    "userRatingCount": 144,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Rajagiriya s newest co sharing office experience. 4 floors of office space fitted out with luxurious fittings and amenities.\nThe ground floor has a reception and very comfortable relaxing area . Conference room seats around 20 . Limited parking but the adjoining road has plenty of space",
+      "Great co-working space for small corporate clients. Building management is maintaining this space in a very good manner. Gym facility available. ample meeting rooms. rooftop with dining area. You can rent both for the short term and long term both. The building manager is a very friendly and very efficient lady. Overall it was good experience",
+      "The main thing that impressed me about this building is, it's very easy to access, also the building is a newly constructed one. It made a fresh change in my job as well. The attractively designed lobby brings a fresh experience to my guests. Also, the roof top is one of my favorite places. The surroundings, specially the sunset is a great sight. Also the  friendly and loyal service staff, always committed to our needs. Really appreciate it.",
+      "Such a aesthetic place to work from and very Elegant. As much as it’s bright walls and amazing spaces make it a great place to get work done from, it’s also very much homely with the comfort it provides, the swift support and accommodations by the building manager, the always clean and well maintained spaces. Clients and Guests are always so amazed with our office space and all thanks to Elegance Workspaces!",
+      "My go-to coworking space when in Rajagiriya/Nawala. The interior, ambience and lighting is well curated ensuring that the working environment is never with a dull moment. The team handling are super professional and offers seamless care."
+    ],
+    "clean_texts": [
+      "rajagiriya s new co share office experience 4 floor office space fit luxurious fitting amenity ground floor reception comfortable relax area conference room seat 20 limit parking adjoining road plenty space",
+      "great co working space small corporate client building management maintain space good manner gym facility available ample meeting room rooftop dining area rent short term long term building manager friendly efficient lady overall good experience",
+      "main thing impress building easy access building newly construct fresh change job attractively design lobby bring fresh experience guest roof favorite place surrounding specially sunset great sight friendly loyal service staff committed need appreciate",
+      "aesthetic place work elegant s bright wall amazing space great place work s homely comfort provide swift support accommodation building manager clean maintain space client guest amazed office space thank elegance workspace",
+      "coworke space rajagiriya nawala interior ambience lighting curate ensure work environment dull moment team handling super professional offer seamless care"
+    ],
+    "pos_tags_sample": [
+      [
+        "rajagiriya",
+        "PROPN"
+      ],
+      [
+        "s",
+        "PART"
+      ],
+      [
+        "newest",
+        "ADJ"
+      ],
+      [
+        "co",
+        "AUX"
+      ],
+      [
+        "sharing",
+        "VERB"
+      ],
+      [
+        "office",
+        "NOUN"
+      ],
+      [
+        "experience",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "4",
+        "NUM"
+      ],
+      [
+        "floors",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "office",
+        "NOUN"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "fitted",
+        "VERB"
+      ],
+      [
+        "out",
+        "ADP"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "luxurious",
+        "ADJ"
+      ],
+      [
+        "fittings",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "amenities",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "ground",
+        "NOUN"
+      ],
+      [
+        "floor",
+        "NOUN"
+      ],
+      [
+        "has",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "reception",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "comfortable",
+        "ADJ"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "rajagiriya",
+        "PERSON"
+      ],
+      [
+        "4",
+        "CARDINAL"
+      ],
+      [
+        "20",
+        "CARDINAL"
+      ],
+      [
+        "rajagiriya nawala",
+        "PERSON"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJ30uZs_MV4ToRLAihnkD_T58",
+    "name": "NETS Cowork & Colive",
+    "address": "Mahavihara Rd, Ahangama 80650, Sri Lanka",
+    "rating": 4.9,
+    "userRatingCount": 84,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Nets Cowork & Hotel is honestly a gem in Sri Lanka! I stayed here while working remotely and had an amazing experience.\nThe rooms are super clean and comfortable, and the coworking space is perfect — quiet, well-equipped, and inspiring.\nBreakfast is next level — delicious, fresh, and different every day. 😍\nBut the best part? The people. Everyone here is so friendly and welcoming, it really feels like home.\nIf you're a digital nomad or just want a relaxing stay with great vibes and a productive work environment, this is the place!",
+      "We stayed in Nets for one Week in October 2024. Very nice place for work, but also for surfing, traveling to the close neighborhood. The Nets team is fantastic, very helpful and friendly. To mention that we enjoyed the best breakfast in Sri Lanka. The pool is perfect to cool off! Close by there are plenty of restaurants to get lunch or dinner.",
+      "My partner and I stayed at NETS for 3 days and we had the most incredible time there. The breakfast every morning was incredible! The best we’ve had since being in Sri Lanka for almost 3 weeks. The ladies working there are so lovely and super attentive. The pool is incredible and the co working space is a huge bonus for those needing a quiet space with fast internet to work. Would highly recommend!",
+      "From where to start? It’s a super nice and comfortable place to spend your workdays in the middle of the jungle. The co-working is well equipped with nice desks and fast internet. There is air conditioning and a lot of light in the room. The location is close to everything in Ahangama and in the meantime the building is situated in the middle of the forest - at a quiet and relaxing place.\n\nI spent two months working from there and met amazing people. The internet is reliable even if there is power cut, the building is supporting electricity. The people behind the idea Nets are wonderful and they will always help and support in any case.\n\nI can only recommend to anybody heading to Sri Lanka and willing to spend some time working.\n\nP.S The free coffee is super nice and maybe beats some of the local coffee shops 🙂",
+      "I can wholeheartedly recommend NETS Cowork and Colive to everyone. We felt so comfortable here that we immediately decided not to travel any further and to stay here for the remaining three weeks of our Sri Lanka trip.\nThe rooms are beautiful, modernly furnished and very clean. The shared living area and kitchen, which you can use, made us feel at home. There is also a pool and a cool coworking space on the roof, which you can use. The internet works perfectly throughout the house. The location of the property is perfect. Not far from the surf spots but still in the countryside and you have peace and quiet.\nPraise also goes to the breakfast, which is super delicious and can be put together individually every day. The products are all fresh and regional.\nThe owners (Carmela, Kroot and Manuel) are very dedicated and so helpful. They welcomed us with open arms and gave us lots of tips during the three weeks and fulfilled our every wish.\nWe are already looking forward to returning to Sri Lanka and staying again at this great accommodation."
+    ],
+    "clean_texts": [
+      "net cowork hotel honestly gem sri lanka stay work remotely amazing experience room super clean comfortable coworke space perfect quiet equip inspiring breakfast level delicious fresh different day good people friendly welcoming feel like home digital nomad want relaxing stay great vibe productive work environment place",
+      "stay net week october 2024 nice place work surf travel close neighborhood net team fantastic helpful friendly mention enjoy good breakfast sri lanka pool perfect cool close plenty restaurant lunch dinner",
+      "partner stay net 3 day incredible time breakfast morning incredible good ve sri lanka 3 week lady work lovely super attentive pool incredible co working space huge bonus need quiet space fast internet work highly recommend",
+      "start s super nice comfortable place spend workday middle jungle co working equip nice desk fast internet air conditioning lot light room location close ahangama meantime building situate middle forest quiet relax place spend month work meet amazing people internet reliable power cut building support electricity people idea net wonderful help support case recommend anybody head sri lanka willing spend time work free coffee super nice maybe beat local coffee shop",
+      "wholeheartedly recommend net cowork colive feel comfortable immediately decide travel stay remain week sri lanka trip room beautiful modernly furnished clean share living area kitchen use feel home pool cool coworke space roof use internet work perfectly house location property perfect far surf spot countryside peace quiet praise go breakfast super delicious individually day product fresh regional owners carmela kroot manuel dedicated helpful welcome open arm give lot tip week fulfil wish look forward return sri lanka stay great accommodation"
+    ],
+    "pos_tags_sample": [
+      [
+        "nets",
+        "NOUN"
+      ],
+      [
+        "cowork",
+        "NOUN"
+      ],
+      [
+        "hotel",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "honestly",
+        "ADV"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "gem",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "sri",
+        "PROPN"
+      ],
+      [
+        "lanka",
+        "PROPN"
+      ],
+      [
+        "!",
+        "PUNCT"
+      ],
+      [
+        "i",
+        "PRON"
+      ],
+      [
+        "stayed",
+        "VERB"
+      ],
+      [
+        "here",
+        "ADV"
+      ],
+      [
+        "while",
+        "SCONJ"
+      ],
+      [
+        "working",
+        "VERB"
+      ],
+      [
+        "remotely",
+        "ADV"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "had",
+        "VERB"
+      ],
+      [
+        "an",
+        "DET"
+      ],
+      [
+        "amazing",
+        "ADJ"
+      ],
+      [
+        "experience",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "rooms",
+        "NOUN"
+      ],
+      [
+        "are",
+        "AUX"
+      ],
+      [
+        "super",
+        "ADV"
+      ],
+      [
+        "clean",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "comfortable",
+        "ADJ"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "every day",
+        "DATE"
+      ],
+      [
+        "one week",
+        "DATE"
+      ],
+      [
+        "october 2024",
+        "DATE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "3 days",
+        "DATE"
+      ],
+      [
+        "every morning",
+        "TIME"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "almost 3 weeks",
+        "DATE"
+      ],
+      [
+        "ahangama",
+        "GPE"
+      ],
+      [
+        "two months",
+        "DATE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "the remaining three weeks",
+        "DATE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "every day",
+        "DATE"
+      ],
+      [
+        "carmela",
+        "PERSON"
+      ],
+      [
+        "kroot",
+        "PERSON"
+      ],
+      [
+        "manuel",
+        "PERSON"
+      ],
+      [
+        "the three weeks",
+        "DATE"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJZVzcjrhZ4joRsgExMdfv9Rw",
+    "name": "Elegance - Buller's Lane, Colombo 07",
+    "address": "37/1 Bullers Ln, Colombo 00700, Sri Lanka",
+    "rating": 4.9,
+    "userRatingCount": 46,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Great co working space with all the facilities.",
+      "A spectacular co-working space in town with an elegant ambience. A great place to work and highly recommend to run an office. 24hr security for your business is well assured with an amazing service.",
+      "Well maintained , truly elegant , co-working space in the heart of the Capital with all required facilities managed by experienced professionals. Highly recommend for startups and SMEs.",
+      "One of the best co working service providers. They serve you with the most exclusive service and they make a cool place to run your office with a calm surrounding. Highly recommended!",
+      "You can rent out your own working space. Almost all the facilities are available. Have locations at bullers Lane and at Rajagiriya."
+    ],
+    "clean_texts": [
+      "great co work space facility",
+      "spectacular co working space town elegant ambience great place work highly recommend run office security business assure amazing service",
+      "maintain truly elegant co working space heart capital require facility manage experienced professional highly recommend startup sme",
+      "good co work service provider serve exclusive service cool place run office calm surrounding highly recommend",
+      "rent working space facility available location buller lane rajagiriya"
+    ],
+    "pos_tags_sample": [
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        "co",
+        "VERB"
+      ],
+      [
+        "working",
+        "VERB"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "facilities",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "spectacular",
+        "ADJ"
+      ],
+      [
+        "co",
+        "ADJ"
+      ],
+      [
+        "-",
+        "ADJ"
+      ],
+      [
+        "working",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "town",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "an",
+        "DET"
+      ],
+      [
+        "elegant",
+        "ADJ"
+      ],
+      [
+        "ambience",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        "place",
+        "NOUN"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "work",
+        "VERB"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "highly",
+        "ADV"
+      ],
+      [
+        "recommend",
+        "VERB"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "one",
+        "CARDINAL"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJz1x3moFZ4joRZReEHC01ovA",
+    "name": "SquareHub (Pvt) Ltd",
+    "address": "210 Havelock Rd, Colombo 00500, Sri Lanka",
+    "rating": 4.7,
+    "userRatingCount": 60,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Amazing and calm workplace",
+      "Nice working place. Calm peaceful environment makes the value. It is worth to visit here once if you are a startup company lover.",
+      "It's a good place to coworkers.",
+      "This is the home for shoutout labs, paymedia pvt limited and siplo private limited. All of the companies are tech start ups from Colombo",
+      "Great start up eco system over there!"
+    ],
+    "clean_texts": [
+      "amazing calm workplace",
+      "nice working place calm peaceful environment make value worth visit startup company lover",
+      "good place coworker",
+      "home shoutout lab paymedia pvt limited siplo private limited company tech start up colombo",
+      "great start eco system"
+    ],
+    "pos_tags_sample": [
+      [
+        "amazing",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "calm",
+        "ADJ"
+      ],
+      [
+        "workplace",
+        "NOUN"
+      ],
+      [
+        "nice",
+        "ADJ"
+      ],
+      [
+        "working",
+        "NOUN"
+      ],
+      [
+        "place",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "calm",
+        "ADJ"
+      ],
+      [
+        "peaceful",
+        "ADJ"
+      ],
+      [
+        "environment",
+        "NOUN"
+      ],
+      [
+        "makes",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "value",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "worth",
+        "ADJ"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "visit",
+        "VERB"
+      ],
+      [
+        "here",
+        "ADV"
+      ],
+      [
+        "once",
+        "ADV"
+      ],
+      [
+        "if",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "are",
+        "AUX"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "startup",
+        "ADJ"
+      ],
+      [
+        "company",
+        "NOUN"
+      ],
+      [
+        "lover",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "paymedia pvt limited",
+        "ORG"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJs7DyUxhZ4joRFMAIZh6tIEQ",
+    "name": "Co-nnect",
+    "address": "WRHV+8R9 Shangri-La Hotel, Colombo, Sri Lanka",
+    "rating": 4.6,
+    "userRatingCount": 79,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "Booked a room for a half day workshop. Absolutely wonderful space. Was aided by helpful, professional staff. The co-working space itself is excellent, room we got aside. The prices are - esp. given location in the heart of Colombo, and within a 5-star hotel - exceptionally reasonable, esp. given that the price for table/seat includes free coffee, tea etc. Extremely convenient to get to, very fast broadband, quiet, cosy, and with a garden space as well one can touch grass. Can't recommend highly enough.",
+      "This is my go to place when I need a quiet place to get my work done. They have individual pods, group pods and meeting rooms and you can opt in for any option based on your needs. Different packages have different pricing and part of the amount you pay is reimbursable from the cafe over there for beverages, snacks, breakfast or lunch. Place is at easy access from both hotel lobby and OGF mall. They have an outdoor areas as well in case you need some fresh air. I would recommend this place for anyone looking a calm and quiet place for a productive session.",
+      "An exceptional co-working space nestled within Shangri-La Hotel Colombo. The lightning-fast WiFi makes it an ideal spot for productivity. The daily rate of 1500 LKR per person until 8pm is reasonable, especially considering it includes a 900 LKR allowance for purchases. Booking meeting rooms in advance is convenient, and the quality of food is commendable. Highly recommended for those seeking a productive and comfortable work environment in Colombo.",
+      "Co-nnect by Shangri-La is one of the best places to get work done. The rates for reserving a workspace, meeting room, booth, or table are very reasonable. If you’re visiting Colombo and need a productive environment, make sure to reserve your spot here. It’s a great mix of comfort and professionalism, perfect for getting things done efficiently.",
+      "One of the top places for your business meetings and presentations. Whether it’s one person or fifty, you can arrange it professionally with a helpful staff and the Shangri La hospitality. Have a visit and connect with them for more information. Highly recommended.\n\n___DJ Glitch LK___"
+    ],
+    "clean_texts": [
+      "book room half day workshop absolutely wonderful space aid helpful professional staff co working space excellent room get aside price esp give location heart colombo 5 star hotel exceptionally reasonable esp give price table seat include free coffee tea etc extremely convenient fast broadband quiet cosy garden space touch grass recommend highly",
+      "place need quiet place work individual pod group pod meet room opt option base need different package different pricing pay reimbursable cafe beverage snack breakfast lunch place easy access hotel lobby ogf mall outdoor area case need fresh air recommend place look calm quiet place productive session",
+      "exceptional co working space nestle shangri la hotel colombo lightning fast wifi make ideal spot productivity daily rate 1500 lkr person 8 pm reasonable especially consider include 900 lkr allowance purchase book meet room advance convenient quality food commendable highly recommend seek productive comfortable work environment colombo",
+      "co nnect shangri la good place work rate reserve workspace meeting room booth table reasonable visit colombo need productive environment sure reserve spot s great mix comfort professionalism perfect get thing efficiently",
+      "place business meeting presentation s person arrange professionally helpful staff shangri la hospitality visit connect information highly recommend dj glitch lk"
+    ],
+    "pos_tags_sample": [
+      [
+        "booked",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "room",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "half",
+        "ADJ"
+      ],
+      [
+        "day",
+        "NOUN"
+      ],
+      [
+        "workshop",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "absolutely",
+        "ADV"
+      ],
+      [
+        "wonderful",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "was",
+        "AUX"
+      ],
+      [
+        "aided",
+        "VERB"
+      ],
+      [
+        "by",
+        "ADP"
+      ],
+      [
+        "helpful",
+        "ADJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "professional",
+        "ADJ"
+      ],
+      [
+        "staff",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "co",
+        "ADJ"
+      ],
+      [
+        "-",
+        "ADJ"
+      ],
+      [
+        "working",
+        "ADJ"
+      ],
+      [
+        "space",
+        "NOUN"
+      ],
+      [
+        "itself",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "excellent",
+        "ADJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "a half day",
+        "DATE"
+      ],
+      [
+        "5",
+        "CARDINAL"
+      ],
+      [
+        "ogf",
+        "GPE"
+      ],
+      [
+        "daily",
+        "DATE"
+      ],
+      [
+        "1500",
+        "CARDINAL"
+      ],
+      [
+        "8pm",
+        "TIME"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "fifty",
+        "CARDINAL"
+      ]
+    ]
+  },
+  {
+    "place_id": "ChIJ_edZJABR4joR7SSVHeUAUl4",
+    "name": "Snugspace",
+    "address": "2nd floor 269, 1 High Level Rd, Pannipitiya 10280, Sri Lanka",
+    "rating": 5,
+    "userRatingCount": 23,
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "raw_texts": [
+      "One of the best co-working places in Sri Lanka hands down. Snugspace in Kottawa, just outside Colombo, offers a high-quality, flexible workspace that caters to individuals, startups, and small teams. Positioned in the city centre and the Makumbura Multimodal Transport Centre, it’s easily accessible by both road and rail. Fully air‑conditioned  20+person capacity visible., Cozy. Owners mentioned they will be providing coffee starting from next week. Owner seemed very friendly.",
+      "Snugspace offers a cosy and a comfortable co- working space in a very commercial area. It gives you the range of options to select from memberships, walk - ins and customized plans with flexibility. Includes an area to relax, access to beverages. Even if it’s located in a very busy environment, when you enter Snugspace it gives you the ideal work environment. An ideal place to build a community and for networking. Affordable for startups looking for a space to grow their team. Please check out their website for more information and added services.",
+      "Great spot with comfy vibes and top service... The owner is super caring and always makes sure everything runs smoothly. Prices are reasonable too, you can get work done without any stress ! 🫶🏻",
+      "Snug Space is an amazing co-working spot!\nThe atmosphere is warm, welcoming, and perfect for staying productive. It’s cozy yet spacious, with a beautifully designed interior that feels both elegant and comfortable. There’s plenty of room to work without distractions, whether you’re on your own or collaborating with others. I’d definitely recommend Snug Space to anyone looking for a stylish, relaxing place to get things done!",
+      "Snugspace in Kottawa is one of the best co-working spots around. Conveniently located, this fully air-conditioned with plenty of space. It’s a one stop shop for all co-working needs. Highly recommended!"
+    ],
+    "clean_texts": [
+      "good co working place sri lanka hand snugspace kottawa outside colombo offer high quality flexible workspace cater individual startup small team position city centre makumbura multimodal transport centre s easily accessible road rail fully air condition 20 person capacity visible cozy owner mention provide coffee start week owner friendly",
+      "snugspace offer cosy comfortable work space commercial area give range option select membership walk in customize plan flexibility include area relax access beverage s locate busy environment enter snugspace give ideal work environment ideal place build community network affordable startup look space grow team check website information add service",
+      "great spot comfy vibe service owner super caring make sure run smoothly price reasonable work stress",
+      "snug space amazing co working spot atmosphere warm welcoming perfect stay productive s cozy spacious beautifully design interior feel elegant comfortable s plenty room work distraction collaborate d definitely recommend snug space look stylish relax place thing",
+      "snugspace kottawa good co working spot conveniently locate fully air condition plenty space s stop shop co working need highly recommend"
+    ],
+    "pos_tags_sample": [
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "best",
+        "ADJ"
+      ],
+      [
+        "co",
+        "ADJ"
+      ],
+      [
+        "-",
+        "ADJ"
+      ],
+      [
+        "working",
+        "ADJ"
+      ],
+      [
+        "places",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "sri",
+        "PROPN"
+      ],
+      [
+        "lanka",
+        "PROPN"
+      ],
+      [
+        "hands",
+        "VERB"
+      ],
+      [
+        "down",
+        "ADP"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "snugspace",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "kottawa",
+        "PROPN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "outside",
+        "ADP"
+      ],
+      [
+        "colombo",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "offers",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "high",
+        "ADJ"
+      ],
+      [
+        "-",
+        "PUNCT"
+      ],
+      [
+        "quality",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "flexible",
+        "ADJ"
+      ],
+      [
+        "workspace",
+        "NOUN"
+      ]
+    ],
+    "entities_sample": [
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "sri lanka",
+        "GPE"
+      ],
+      [
+        "kottawa",
+        "GPE"
+      ],
+      [
+        "20",
+        "CARDINAL"
+      ],
+      [
+        "next week",
+        "DATE"
+      ],
+      [
+        "kottawa",
+        "GPE"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ]
+    ]
+  }
+]
